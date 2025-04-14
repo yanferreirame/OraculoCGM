@@ -1,8 +1,0 @@
-streamlit
-pandas
-langchain
-langchain-community
-langchain-openai
-faiss-cpu
-openai
-python-dotenv
