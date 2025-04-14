@@ -1,8 +1,9 @@
 streamlit
 pandas
 langchain
-langchain-community
-langchain-openai
-faiss-cpu
+langchain_community
+langchain_openai
+langchain_core
+faiss_cpu
 openai
 python-dotenv
