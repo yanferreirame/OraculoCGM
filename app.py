@@ -18,7 +18,7 @@ openai_key = os.getenv("OPENAI_API_KEY")
 
 st.set_page_config(page_title="Oráculo da Controladoria", page_icon="🧙‍♂️")
 st.title("🧙‍♂️ Oráculo da Controladoria")
-
+st.subheader("Desenvolvido por Yan Ferreira Martins")
 
 
 def setup_chain():
